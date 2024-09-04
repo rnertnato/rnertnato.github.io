@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rnertnato.github.io/sitemap.html.gz
+Sitemap: https://rnertnato.github.io/app/sitemap.html.gz
+Sitemap: https://rnertnato.github.io/assets/sitemap.html.gz
+Sitemap: https://rnertnato.github.io/css/sitemap.html.gz
+Sitemap: https://rnertnato.github.io/includes/sitemap.html.gz
+Sitemap: https://rnertnato.github.io/item/sitemap.html.gz
+Sitemap: https://rnertnato.github.io/src/sitemap.html.gz
